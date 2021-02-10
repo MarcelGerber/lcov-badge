@@ -22,8 +22,7 @@
   "dependencies": {
     "argparse": "^1.0.9",
     "badge-up": "^2.3.0",
-    "lcov-parse": "0.0.10",
-    "svg2png": "^4.1.1"
+    "lcov-parse": "0.0.10"
   },
   "devDependencies": {
     "eslint": "^3.19.0"
